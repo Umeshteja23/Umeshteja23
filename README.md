@@ -27,7 +27,7 @@ Curious, consistent, and always learning new tools to grow in the field of
 
 ---
 
-## 🔥 Currently Learning
+## 🔥 SPECIFIED Skills
 - Power BI dashboards  
 - Data cleaning & data visualization  
 - Python automation projects  
@@ -53,11 +53,11 @@ Interactive dashboard built to uncover insights from the dataset.
 
 ## 📫 Contact Me
 
-- **Email:** ume***@gmail.com  
+- **Email:** umeshtejachowdary@gmail.com  
 - **GitHub:** https://github.com/Umeshteja23  
 - **LinkedIn:** (add your link here)
 
 ---
 
-> ⚡ *I love building projects, exploring data, and growing step-by-step as a developer.*  
+> ⚡ *I love building projects, exploring data, and growing step-by-step as a data analyst.*  
 
