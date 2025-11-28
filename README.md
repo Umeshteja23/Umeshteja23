@@ -42,15 +42,15 @@ Curious, consistent, and always learning new tools to grow in the field of
 
 ### 🏥 Healthcare Data Analysis  
 Python + Excel project analyzing patient records, costs, and patterns.  
-🔗 *Repo link:* (Add your link here)
+🔗 *Repo link:https://github.com/Umeshteja23/health-analytics-based-on-power-bi
 
 ### ✈️ Flight Data Analysis  
 Excel project about flight delays, performance, cleaning and visualization.  
-🔗 *Repo link:* (Add your link here)
+🔗 *Repo link:https://github.com/Umeshteja23/flight-analysis
 
-### 📊 Power BI Dashboard (Any new one you add today)  
-Interactive dashboard built to uncover insights from the dataset.  
-🔗 *Repo link:* (Add your link here)
+### 📊 GEN - AI project  
+A fully automated pipeline using Streamlit, Gemini API, and n8n to convert PDF resumes into professional summaries and top skill insights.  
+🔗 *Repo link:https://github.com/Umeshteja23/gen-ai-resume-extractor
 
 ---
 
