@@ -55,7 +55,7 @@ Interactive dashboard built to uncover insights from the dataset.
 
 - **Email:** umeshtejachowdary@gmail.com  
 - **GitHub:** https://github.com/Umeshteja23  
-- **LinkedIn:** (add your link here)
+- **LinkedIn:** www.linkedin.com/in/umesh-teja-chowdary
 
 ---
 
